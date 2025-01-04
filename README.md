@@ -8,13 +8,10 @@
 
 ## 🛠️ Что будет установлено?
 - **OpenSSL**
-- **QRencode**
 - **3X-UI**
 
 ## 🚀 Как использовать?
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/anten-ka/self-signed-cert-script-by-antenka.git
-cd self-signed-cert-script-by-antenka
-chmod +x self_signed_cert.sh
+rm -rf ~/self-signed-cert-script-by-antenka
